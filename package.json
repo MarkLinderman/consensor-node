@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/MarkLinderman/consensor-node#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "update": "^0.7.4"
   }
 }
